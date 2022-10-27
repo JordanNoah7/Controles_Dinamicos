@@ -1,13 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
-using System.Linq;
-using System.Runtime.Remoting.Metadata.W3cXsd2001;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ControlesDinamicosVS
@@ -51,7 +45,7 @@ namespace ControlesDinamicosVS
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void cboTablas_MouseClick(object sender, MouseEventArgs e)
@@ -75,9 +69,9 @@ namespace ControlesDinamicosVS
                 ds.Tables["campos"].Clear();
             }
             daCampos.Fill(ds, "campos");
-            
+
             int j = 0;
-            foreach(DataRow rowCampos in ds.Tables["campos"].Rows)
+            foreach (DataRow rowCampos in ds.Tables["campos"].Rows)
             {
                 Label l = new Label();
                 l.Name = "L" + rowCampos["columna"].ToString().Trim();
@@ -178,7 +172,7 @@ namespace ControlesDinamicosVS
                         coll["T" + rowCampo["columna"].ToString().Trim()].Text = rowRegistro[rowCampo["columna"].ToString().Trim()].ToString().Trim();
                         break;
                 }
-                    //TODO: terminar de configurar el checkbox para mostrar la informacion. posible respuesta , convertirlo
+                //TODO: terminar de configurar el checkbox para mostrar la informacion. posible respuesta , convertirlo
             }
         }
 

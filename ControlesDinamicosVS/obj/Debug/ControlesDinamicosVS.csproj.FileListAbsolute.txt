@@ -1,0 +1,11 @@
+C:\Users\dyfmeks\Documents\Programacion\ControlesDinamicosVS\ControlesDinamicosVS\bin\Debug\ControlesDinamicosVS.exe.config
+C:\Users\dyfmeks\Documents\Programacion\ControlesDinamicosVS\ControlesDinamicosVS\bin\Debug\ControlesDinamicosVS.exe
+C:\Users\dyfmeks\Documents\Programacion\ControlesDinamicosVS\ControlesDinamicosVS\bin\Debug\ControlesDinamicosVS.pdb
+C:\Users\dyfmeks\Documents\Programacion\ControlesDinamicosVS\ControlesDinamicosVS\obj\Debug\ControlesDinamicosVS.csproj.AssemblyReference.cache
+C:\Users\dyfmeks\Documents\Programacion\ControlesDinamicosVS\ControlesDinamicosVS\obj\Debug\ControlesDinamicosVS.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyfmeks\Documents\Programacion\ControlesDinamicosVS\ControlesDinamicosVS\obj\Debug\ControlesDinamicosVS.Form1.resources
+C:\Users\dyfmeks\Documents\Programacion\ControlesDinamicosVS\ControlesDinamicosVS\obj\Debug\ControlesDinamicosVS.Properties.Resources.resources
+C:\Users\dyfmeks\Documents\Programacion\ControlesDinamicosVS\ControlesDinamicosVS\obj\Debug\ControlesDinamicosVS.csproj.GenerateResource.cache
+C:\Users\dyfmeks\Documents\Programacion\ControlesDinamicosVS\ControlesDinamicosVS\obj\Debug\ControlesDinamicosVS.csproj.CoreCompileInputs.cache
+C:\Users\dyfmeks\Documents\Programacion\ControlesDinamicosVS\ControlesDinamicosVS\obj\Debug\ControlesDinamicosVS.exe
+C:\Users\dyfmeks\Documents\Programacion\ControlesDinamicosVS\ControlesDinamicosVS\obj\Debug\ControlesDinamicosVS.pdb

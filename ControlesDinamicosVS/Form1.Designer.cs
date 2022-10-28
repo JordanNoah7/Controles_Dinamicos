@@ -92,7 +92,7 @@
             // 
             this.MyControls.Location = new System.Drawing.Point(15, 131);
             this.MyControls.Name = "MyControls";
-            this.MyControls.Size = new System.Drawing.Size(581, 284);
+            this.MyControls.Size = new System.Drawing.Size(581, 408);
             this.MyControls.TabIndex = 5;
             this.MyControls.TabStop = false;
             // 
@@ -141,7 +141,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 551);
             this.Controls.Add(this.btnLast);
             this.Controls.Add(this.btnNext);
             this.Controls.Add(this.btnPrev);

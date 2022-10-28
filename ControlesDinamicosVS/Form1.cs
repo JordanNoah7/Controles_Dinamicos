@@ -223,7 +223,7 @@ namespace ControlesDinamicosVS
             DataRow rowPK = null;
             foreach (DataRow row in ds.Tables["FK"].Rows)
             {
-                if (MyControls.Controls[row["constraint_column_name"].ToString()].Name.Equals(row["constraint_column_name"]))
+                if (((Control)sender).Name.Equals(row["constraint_column_name"]))
                 {
                     rowPK = row;
                 }
